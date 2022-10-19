@@ -1,0 +1,28 @@
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\bin\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).exe.config
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).exe
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).pdb
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\bin\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).exe
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\bin\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).pdb
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\ALİŞ Ana Menüsü.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Ana_Sayfa.resources
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Form1.resources
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Mayın_Tarlası.resources
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.X_Ball.resources
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Yılan_Oyunu.resources
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\ALİŞ Ana Menüsü.csproj.GenerateResource.Cache
+C:\Users\CASPER\Desktop\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Hesap_Makinesi.resources
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\bin\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).exe.config
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).exe
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).pdb
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\bin\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).exe
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\bin\Debug\Oyunlar Menüsü Mehmetcan Arslan (Aliş).pdb
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\ALİŞ Ana Menüsü.csprojResolveAssemblyReference.cache
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Ana_Sayfa.resources
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Form1.resources
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Hesap_Makinesi.resources
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Mayın_Tarlası.resources
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Properties.Resources.resources
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.X_Ball.resources
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\Oyunlar_Menüsü_Mehmetcan_Arslan__Aliş_.Yılan_Oyunu.resources
+F:\ALİŞİN\Aliş Projeleri\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\Oyunlar Menüsü Mehmetcan Arslan (Aliş)\obj\Debug\ALİŞ Ana Menüsü.csproj.GenerateResource.Cache
